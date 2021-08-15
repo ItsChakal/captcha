@@ -1,0 +1,4 @@
+random2
+os-sys
+Pillow
+colorama
