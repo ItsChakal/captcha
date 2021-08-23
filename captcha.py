@@ -8,7 +8,7 @@ from time import sleep
 from colorama import Fore
 
 system("cls")
-string.ascii_letters = ("abdefghinpqrtuzABDEFGHINPQRTUZ")
+string.ascii_letters = ("abdefghinpqrtuzABDEFGHINPQRTUZ0123456789")
 def random_char(y):
     return ''.join(random.choice(string.ascii_letters) for x in range(y))
 
